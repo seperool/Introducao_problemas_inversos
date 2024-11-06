@@ -1,6 +1,8 @@
 ---
-title: "Introdução Problemas Inversos"
+title: "Problemas Inversos em Python"
 author: "Sergio Pedro Rodrigues Oliveira"
+date: 11/06/24
+date-format: DD MMMM YYYY
 format:
     html:
         code-fold: true
@@ -59,6 +61,7 @@ import math
 import statistics
 import numpy as np
 import pandas as pd
+import datetime 
 ```
 
 \newpage
@@ -66,10 +69,10 @@ import pandas as pd
 
 # PRINCIPAIS TÓPICOS
 
-## Revisão de Python
+## Tópicos
 
 - Principais tópicos de revisão de Python
-  - `printf`
+  - `printf` @paiva2021introduccao
   - Operações básicas
   - Condicionais - `if`, `else` e `elif`
   - Loops - `for` e `while`
@@ -89,7 +92,7 @@ import pandas as pd
   Exemplo:  
   `import numpy as np`
 
-- Seminário 13/11/24
+- Seminário 1
   - Trabalho computacional 1
     - Lista de exercícios
     - Relatório técnico (qmd -> pdf)
@@ -124,3 +127,5 @@ Para importar uma biblioteca instalada no sistema para o arquivo Python (`.py`):
 # INTRODUÇÃO A PROBLEMAS INVERSOS
 
 \newpage
+
+# BIBLIOGRAFIA
