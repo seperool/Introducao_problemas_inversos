@@ -62,8 +62,9 @@ import pandas as pd
 ```
 
 \newpage
+\pagenumbering{arabic}
 
-# Introdução a problemas inversos
+# PRINCIPAIS TÓPICOS
 
 ## Revisão de Python
 
@@ -74,6 +75,8 @@ import pandas as pd
   - Loops - `for` e `while`
   - Função - `def`
   - Listas - `list`
+- Bibliotecas
+  - numpy
 
 ## Tarefas
 
@@ -85,3 +88,39 @@ import pandas as pd
   `import nome_biblioteca`  
   Exemplo:  
   `import numpy as np`
+
+- Seminário 13/11/24
+  - Trabalho computacional 1
+    - Lista de exercícios
+    - Relatório técnico (qmd -> pdf)
+    - Exemplo compilado (comentar código)
+    - Trazer programas e trabalho em pendrive
+    - Data de entrega: 27/11/24
+
+\newpage
+
+# REVISÃO DE PYTHON
+
+\newpage
+
+# BIBLIOTECAS
+  
+## Importando biblioteca
+
+Para importar uma biblioteca instalada no sistema para o arquivo Python (`.py`):
+
+1. `import nome_biblioteca as apelido_biblioteca`
+   
+2. `from nome_biblioteca import nome_função`
+
+## `numpy`
+
+\newpage
+
+# ESTATÍSTICA BÁSICA
+
+\newpage
+
+# INTRODUÇÃO A PROBLEMAS INVERSOS
+
+\newpage
