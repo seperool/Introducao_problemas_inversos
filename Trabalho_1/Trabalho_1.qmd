@@ -2,7 +2,7 @@
 title: "Introdução de Problemas Inversos"
 subtitle: "Trabalho 1"
 author: "Sergio Pedro Rodrigues Oliveira"
-date: 11/27/24
+date: last-modified
 date-format: DD MMMM YYYY
 format:
     html:
