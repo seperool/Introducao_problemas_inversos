@@ -16,7 +16,7 @@ def desmembra_num(num):
         parte = int((num%10**x - num%10**(x-1))/10**(x-1))
         lista_num_fatiado.append(parte)
         x += 1
-        print(lista_num_fatiado)
+        #print(lista_num_fatiado)
     return lista_num_fatiado
 
 def inverte_num(lista_num_fatiado):
@@ -28,7 +28,7 @@ def inverte_num(lista_num_fatiado):
     for dig in lista_num_fatiado:
         num_inv = num_inv + dig*(10**(len(lista_num_fatiado)-j))
         j+=1
-        print(num_inv)
+        #print(num_inv)
     print("Número invertido: ")
     print(int(num_inv))
 
@@ -38,7 +38,7 @@ def inv_digitos():
     inverte e concatena a lista dos digitos.
     """
     num = int(input("digite um numero inteiro: "))
-    print(num)
+    #print(num)
     lista_dig = desmembra_num(num)
     decisao = input("Gostaria de inverter o número(y/n): ")
     if decisao == "y":

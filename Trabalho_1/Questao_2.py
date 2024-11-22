@@ -23,23 +23,25 @@ def desmembra_num(num):
 def num_descartar(lista_num_fatiado):
     i=0 #Contador
     i1 = 0 #Criterio 1 = dig 1, conta interação
+    c1 = 0
     i2 = 0 #Criterio 2 = dig 7
+    i2 = 0
     mensagem = "o número não é meliante!"
     for dig in lista_num_fatiado:
         i+=1
         print(f"digito: {dig}")
         if dig == 1: #Criterio 1
-            if i1 == (i - 2):
-                print("")
-            else:
-                i1=i
-                print("entrou 1")
-        if dig == 7 and (i1 == (i - 1)): #Criterio 2
-            i2 = i
-            print("entrou 2")
-        if dig == 1 and ((i2 == (i - 1)) and (i1 == (i - 2))): #Criterio final
+            if 
+            
+            
+            
+            
+            
+            
+        if : #Criterio 2
+            
+        if : #Criterio final
             mensagem = "o numero é meliante!"
-            print("entrou 3")
     
     #Mensagem final
     print(mensagem)
